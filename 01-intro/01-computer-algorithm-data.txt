@@ -1,0 +1,39 @@
+# Kompyuter, algoritm, ma'lumot
+
+Kompyuter - ma'lumotlarga ishlov beruvchi qurilma
+Kompyuterning asosiy vazifasi ma'lumotni o'qish, ularning ustida turli hisob-kitoblarni bajarish va saqlash
+
+
+Kompyuterning tarkibiy qismlari
+
+1. Prosessor
+2. Xotira
+3. Kirish-chiqish qurilmalari
+
+computer-components.png
+
+
+Dastur - qo'yilgan muammoga yechim topish uchun, kompyuterga qaysi amallarni qanday ketma-ketlikda bajarishni aytuvchi ko'rsatmalar to'plami
+Bevosita dastur yaratish jarayoni dasturlash, dastur yaratuvchi odam esa dasturchi deyiladi.
+
+
+Dastur (muammo) qanchalik murakkab bo'lmasin, biz uni bir nechta sodda muammolarga bo'lib olamiz va har bir muammoga qadam-baqadam yechim taklif qilamiz. Bu algoritm deyiladi.
+Algoritm -  muammolarning qadam-baqadam yechimi
+Bitta muammo uchun birnechta yechim bo'lishi mumkin
+
+
+Guruch pishirish algoritmi
+
+1. Guruchni yuving
+2. Qozonga suv va guruchni soling
+3. 1 qoshiq tuz va 1 qoshiq yog' soling
+4. Suv qaynaguncha baland olovda qo'ying
+5. Suv qaynagach olovni pasaytiring
+6. 10 minutdan so'ng olovni o'chiring va 10 minut dimlang
+
+
+Ma'lumotlar - kompyuter xotirasida saqlanuvchi matn, rasm, video, audio, dasturlar, jadvallar va boshqa axborot
+Ma'lumotlar tuzilmasi - ma'lumotlardan samarali foydalanish uchun tartibga solishning o'ziga xos usuli.
+
+
+Ma'lumotlar tuzilmasi va algoritmlar - dasturlashning negizi
