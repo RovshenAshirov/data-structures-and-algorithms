@@ -1,0 +1,16 @@
+# Fanning dolzarbligi
+
+Nima uchun har bir dasturchi ma'lumotlar tuzilmasi va algoritmini bilishi kerak?
+
+- Bitta muammoga birnechta yechim bo'lishi mumkin
+- Mavjud ma'lumotlar tuzilmasi va algoritmlardan xabardor bo'lish eng samarali yechimni topishga yordam beradi
+- Samaradorlik algoritmning tezligi va qancha xotira egallashi bilan o'lchanadi
+  - Time and space complexity
+- Katta loyihalarda bevosita kod yozish jarayoni 20-30% xolos
+- Aksar vaqt kompaniya resurslarini (serverlar, hisoblash quvvati va boshqalarni) tejash uchun eng optimal algoritmlarni loyihalashtirishga sarflanadi
+- Shuning uchun katta kompaniyalar ishga olishda aynan ma'lumotlar tuzilmasi va algoritmlarni qanchalik bilishingizni tekshiradi
+  - Dasturlash tili va turli frameworklar ikkilamchi
+- Tasavvur qiling siz ustida ishlayotgan dasturning millionlab foydalanuvchilari bor
+  - Bank, onlayn qidiruv, ijtimoiy tarmoq, rasmlar uchun bulut xizmati, yangi super o'yin, elektron kutubxona va hokazo
+- Ma'lumotlar har soniyada yangilanib turadi
+- Siz har bir mijoz haqida minglab ma'lumotlarni saqlab borishingiz va kerak bo'lgan ma'lumotni bir zumda topib berishingiz kerak
