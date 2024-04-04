@@ -1,0 +1,17 @@
+# Ma'lumotlar tuzilmalari bilan qisqa tanishuv
+
+- Array (ro'yxat)
+- 2-3-N o'lchamli ro'yxat
+- Linked list (bog'langan ro'yxat)
+- Stacks
+- Queues
+- Graph (graflar)
+- Tree (Shajara)
+- Hash jadvallari
+- Heap
+
+
+data-structures-1.png
+data-structures-2.png
+data-structures-3.png
+data-structures-4.png
