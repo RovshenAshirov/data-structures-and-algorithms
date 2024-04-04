@@ -1,0 +1,23 @@
+# Mavjud algoritmlar bilan qisqa tanishuv
+
+- Aksar muammolar ma'lumotlarni tartiblashga va qidirishga borib taqaladi
+- Biz o'rganadigan aksar algoritmlar ham aynan Tartiblash va Qidirish (Sorting and Searching) algoritmlar haqida bo'ladi
+- Qo'shimcha: Dynamic Programmin, Greedy Algorithms
+
+
+Sorting
+
+- Bubble sort
+- Selection sort
+- Merge sort
+- Quick sort
+- Heap sort
+- Bucket sort
+
+
+Searching
+
+- Recursion
+- Linear search
+- Binary search
+- Jump search
