@@ -1,0 +1,9 @@
+# Linear search
+
+Bizga berilgan ro'yxatdan 30 sonini topish kerak
+
+linear-search-1.png
+linear-search-2.png
+linear-search-3.png
+
+Linear search bizga kerak ma'lumot'ni ro'yxatni boshidan toki uni topgunga qadar ketma-ketlikda qidiradi
