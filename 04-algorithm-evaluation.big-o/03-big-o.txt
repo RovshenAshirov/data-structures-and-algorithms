@@ -1,0 +1,18 @@
+# Big O
+
+O - Order Complexity
+
+Big O (katta O) - algoritmning tezligini o'lchash uchun mezon
+Big O eng yomon holatdagi tezlini o'lchaydi
+O'lchov birligi - operatsiyalar soni
+Linear search uchun O(n)
+Binary search uchun O(log2(N))
+
+
+Ba'zi algoritmlarning tezligi:
+
+O(log2(N)) - Binary search
+O(n) - Linear search
+O(n * log2(N)) - Quicksort algorithm
+O(n^2) - Slow sorting algorithm
+O(n!) - Traveling salesperson
