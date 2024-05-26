@@ -1,0 +1,30 @@
+# Arrays vs Linked lists
+
+memory.png
+
+O'qish
+    Array - O(1)
+    Linked lists - O(n)
+Qo'shish
+    Array - O(n)
+    Linked lists - O(1)
+O'chirish
+    Array - O(n)
+    Linked lists - O(1)
+
+Afzalliklari
+    Arrays
+        - Tez o'qish/qidirish
+        - Har bir element kamroq xotira egallaydi
+    Linked lists
+        - Tez yozish/o'chirish
+        - O'zgaruvchan hajmga ega
+        - Xotiradan samarali foydalanish
+Kamchiliklari
+    Arrays
+        - Sekin qo'shish/o'chirish
+        - O'zgarmas hajm (hajm o'zgartirish "qimmat")
+        - Xotiradan samarasiz foydalanish
+    Linked lists
+        - Sekin qidirish
+        - Har bir tugun xotira ko'proq joy egallaydi (qiymat + keyingi tugun manzili)
