@@ -1,0 +1,15 @@
+# Binary search
+
+N ta elementdan iborat A ro'yxati berilgan: [A(0), A(1), A(2), ..., A(N-1)]
+T biz ro'yxat ichidan qidirayotgan qiymat
+Bizga T ning indeksi kerak
+Ro'yxat tartiblangan ro'yxat.
+
+1. Pastki chegarani L = 0, tepa chegarani H = N - 1 deb belgilaymiz
+2. Agar L > H bo'lsa qidirmaymiz
+3. O'rta qiymatning indeksini topamiz m = (L + H) / 2
+4. Agar A(m) = T bo'lsa m ni qaytaramiz. Dastur tugaydi
+5. Agar A(m) < T bo'lsa, L = m + 1 qilamiz va 2-qadamga o'tamiz
+6. Agar A(m) > T bo'lsa, L = m - 1 qilamiz va 2-qadamga o'tamiz
+
+binary-search.png
