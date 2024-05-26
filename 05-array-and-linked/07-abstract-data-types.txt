@@ -1,0 +1,13 @@
+# Abstrakt ma'lumot turlari
+
+Ma'lumot turiga dasturlash tilidan uzilgan holda qarash
+Abstrakt ma'lumot turi u saqlaydigan qiymatlar va uning ustida bajarish mumkin bo'lgan operatsiyalar bilan aniqlanadi
+
+Array - Elementlar - Indeks
+
+Bir turdagi ma'lumotlar
+Indekslangan
+Ketma-ket joylashgan
+Element qo'shish
+Element o'chirish
+Qiymatni o'zgartirish
