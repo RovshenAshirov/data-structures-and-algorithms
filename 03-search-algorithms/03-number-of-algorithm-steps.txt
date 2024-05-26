@@ -1,0 +1,9 @@
+# Algoritm qadamlari soni
+
+Linear search
+- N ta elementdan iborat ro'yxat uchun:
+    - Maksimum qadamlar soni N ga teng
+
+Binary search
+- N ta elementdan iborat ro'yxat uchun:
+    - Maksimum qadamlar soni log2(N) ga teng
