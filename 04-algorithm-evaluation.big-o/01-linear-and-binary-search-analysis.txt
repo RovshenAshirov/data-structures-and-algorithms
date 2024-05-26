@@ -1,0 +1,6 @@
+# Linear va Binary search tahlili
+
+Linear search istalgan ro'yxat uchun
+Binary search faqat tartiblangan ro'yxat uchun ishlaydi
+
+03-search-algorithms/python/binary-search.py
