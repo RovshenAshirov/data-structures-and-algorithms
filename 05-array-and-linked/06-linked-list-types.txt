@@ -1,0 +1,7 @@
+# Linked list turlari
+
+linked-lists-types.png
+
+Singly linked lists - bir tomonlama ro'yxat
+Circular linked lists - aylana ro'yxat
+Doubly linked lists - iki tomonlama ro'yxat
