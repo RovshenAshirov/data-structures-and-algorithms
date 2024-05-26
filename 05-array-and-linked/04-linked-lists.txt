@@ -1,0 +1,8 @@
+# Linked lists
+
+Linked lists - bu ketma-ketlikda xotiradagi joylashuviga bog'liq bo'lmagan chiziqli ma'lumotlar to'plami
+Ro'yxatning har bir elementi keyingi elementga ishora qiladi
+Ma'lumotlar tuzilmasi sifatida LL ni bir-biriga bog'langan tugunlar ko'rinishida tasavvur qilamiz
+Har bir tugun o'z qiymatini va keyingi element manzilini saqlaydi
+
+linked-lists.png
