@@ -1,0 +1,44 @@
+# Algoritmga misollar
+
+Foydalanuvchi kiritgan ikki sonni qo'shish algoritmi:
+
+1. Start
+2. son1, son2 va summa o'zgaruvchilarini yaratamiz
+3. son1 va son2 qiymatlarini qabul qilamiz
+4. son1 va son2'ni qo'shamiz, natijani summa'ga yuklaymiz: summa = son1 + son2
+5. summa'ni foydalanuvchiga qaytaramiz
+6. Stop
+
+
+Uchta sondan eng kattasini topish algoritmi:
+
+1. Start
+2. a, b va c o'zgaruvchilarini yaratamiz
+3. a, b va c'ga qiymatlarini qabul qilamiz
+4. Agar a > b bo'lsa
+    - agar a > c bo'lsa
+        - a eng katta son deb qaytar
+    - aks holda
+        - c eng katta son deb qaytar
+5. aks holda (ya'ni a < b) bo'lsa
+    - agar b > c bo'lsa
+        - b eng katta son deb qaytar
+    - aks holda
+        - c eng katta son deb qaytar
+6. Stop
+
+
+N faktorialni hisoblash algoritmi:
+
+- N faktorial deb 1 dan N gacha bo'lgan sonlarning ko'paytmasiga aytiladi.
+- Masalan N=5 bo'lsa, 5 faktorial 1 * 2 * 3 * 4 * 5 = 120 ga teng.
+
+1. Start
+2. N, faktorial va i o'zgaruvchilarini yaratamiz
+3. faktorial va i ga 1 qiymatini yuklaymiz: faktorial = 1, i = 1
+4. Foydalanuvchidan N qiymatini qabul qilamiz
+5. i = N bo'lgunga qadar qadamlarni takrorlaymiz:
+    - faktorial = faktorial * i
+    - i = i + 1
+6. faktorial qiymatini qaytar
+7. Stop
