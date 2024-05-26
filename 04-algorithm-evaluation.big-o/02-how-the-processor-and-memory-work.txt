@@ -1,0 +1,16 @@
+# Prosessor va xotira qanday ishlaydi
+
+cpu.png
+
+F = 2.5 GHz
+Giga = Milliard (10(9))
+T = 1 / F = 0.4 * 10(-9) = 0.4 ns
+
+Google foydalanuvchilari soni: N = 1.5 milliard
+
+Bir foydalanuvchini topish uchun
+
+Linear search: T * N = 0.4 ns * 1.5 * 10(9) = 0.6 s
+Binary search: T * log2(N) = 0.4 ns * 30 = 12 ns
+
+Farq: 50 000 000
