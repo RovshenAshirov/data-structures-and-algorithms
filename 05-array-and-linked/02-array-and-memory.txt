@@ -1,0 +1,5 @@
+# Array va xotira
+
+Array elementlari xotirada yonma-yon joylashadi
+add-element.png
+Har bir siljish bitta operatsiyaga teng
