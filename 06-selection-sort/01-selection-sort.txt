@@ -1,0 +1,9 @@
+# Selection sort
+
+Ro'yxatlarni tartiblash
+
+selection-sort.txt
+
+step-1.png
+step-2.png
+step-3.png
