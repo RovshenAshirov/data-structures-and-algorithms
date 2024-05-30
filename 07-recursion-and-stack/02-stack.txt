@@ -1,0 +1,15 @@
+Stack
+
+LIFO ma'lumot to'plami
+LIFO (Last In First Out) - Oxirgi kirgan, birinchi chiqadi
+Ma'lumotlar to'plam ustiga qo'shiladi
+
+stack.png
+life.png
+
+Stack ustida amallar
+    - Push - element qo'shish
+    - Pop - element sug'urib olish
+    - isEmpty - to'plam bo'sh ekanligini tekshirish
+    - isFull - to'plam to'la ekanligini tekshirish
+    - Peek - eng yuqoridagi element qiymatini ko'rish
