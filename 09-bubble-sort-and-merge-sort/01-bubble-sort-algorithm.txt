@@ -1,0 +1,6 @@
+# Bubble sort algoritmi
+
+Eng sodda tartiblash algoritmi
+Qo'shni elementlarni solishtirish va o'rnini almashtirish orqali ishlaydi
+
+bubble-sort.png
