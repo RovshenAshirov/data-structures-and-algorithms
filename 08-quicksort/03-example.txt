@@ -1,0 +1,13 @@
+# Divide and Conquer. Misol
+
+Berilgan array elementlari yig'indisini hisoblang: [5, 8, 12, 22]
+    - To'xtash shartini aniqlaymiz:
+        - Agar arrayda 1 ta element bo'lsa shu elementni qaytaramiz
+        - Agar arrayda element bo'lmasa 0 qaytaramiz
+    - To'xtash shartiga yetish uchun har qadamda muammoni kichraytirish yo'lini topamiz
+        - Har qadamda 0 ta elementdan iborat arrayga yaqinlashamiz
+
+Quyidagi funksiyalarni divide and conquer usulidan foydalanib yozing:
+    - Array elementlari sonini qaytaruvchi funksiya
+    - Arrayning eng katta elementini qaytaruvchi funksiya
+    - Binary Search qidirish algoritmi
