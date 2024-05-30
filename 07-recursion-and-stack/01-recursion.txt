@@ -1,0 +1,13 @@
+# Rekursiya
+
+while.png
+recursion.png
+compare.png
+python.png
+
+Rekursiv funksiyalar ikki qismdan iborat bo'ladi:
+    - Rekursiya sharti (recursive case)
+    - To'xtash sharti (base case)
+
+count.py
+http://pythontutor.com/visualize.html#mode=edit
