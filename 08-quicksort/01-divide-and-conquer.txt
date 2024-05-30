@@ -1,0 +1,27 @@
+# Divide va Conquer
+
+Bo'lib tashlab, hukmronlik qil
+
+Ba'zida muammolarga yechim ko'rinmaydi.
+Yaxshi dasturchi muammo oldida yengilmaydi.
+Katta muammoni mayda muammolarga bo'lib olib, har bir muammoni alohida hal qiladi.
+Bu divide and conquer metodi deyiladi.
+Divide and conquer metodi juda ko'p muammolarga yechim bo'lishi mumkin.
+Keyingi safar murakkab muammoga to'qnash kelganingizda shu metodni esga soling.
+
+Tasavvur qiling siz fermersiz va sizda quyidagi yer maydoni bor
+Sizning vazifangiz maydonni birnechta kvadratlarga bo'lish
+Kvadratlar imkon qadar katta bo'lishi kerak
+rectangle-1.png
+rectangle-2.png
+rectangle-3.png
+
+Keling endi divide and conquer metodini ko'ramiz
+Buning uchun biz rekursiyani esga olamiz
+Rekursiya ishlashi uchun bizga to'xtash sharti kerak
+    - To'xtash shartini topamiz
+    - To'xtash shartiga yetgunga qadar rekursiyani takrorlaymiz
+
+Rekursiyaning har bir qadami bilan muammo kichrayib borishi kerak
+solution.png
+Yevklid algoritmi - EKUB (Eng Katta Umumiy Bo'luvchi)
