@@ -1,0 +1,24 @@
+# Yevklid algoritmi
+
+Avvalgi darsimizda Yevklid algoritmi qanday ishlashini ko'rdik. Sizning vazifangiz 2 sonning eng katta umumiy bo'luvchisiтш (EKUB) topuvchi funksiya yozish.
+
+Buning uchun quyidagi ikki usuldan foydalanish mumkin:
+Sonlarni ayirish usuli
+
+Deylik bizga 45 va 27 sonlari berilgan, keling ularning EKUB topamiz.
+45-27=18
+27-18=9
+18-9=9
+9-9=0
+Ayirish jarayoni to natija 0 ga (ya'ni ikki son teng) bo'lgunga qadar  davom etadi (rekursiya uchun to'xtash sharti).
+
+Sonlarni bo'lish va qoldiq olish usuli
+    - Ikkita sondan kattasini kichigiga bo’lib qoldiq olamiz.
+    - Ularni o’rnini almashtiramiz
+    - 1- va 2-qadamlarni sonlardan biri nol bo’lib qolguncha davom ettiramiz
+    - Qolgan son shu ikki son uchun EKUB bo’ladi.
+
+45 va 27 sonalri uchun EKUB hisoblaymiz
+45%27=18 (qoldiq)
+27%18=9
+18%9=0
