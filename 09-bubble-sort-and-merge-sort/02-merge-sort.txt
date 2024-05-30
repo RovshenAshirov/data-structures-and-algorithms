@@ -1,0 +1,8 @@
+# Merge sort algoritmi
+
+Divide and Conquer usuli yordamida ishlaydigan tartiblash algoritmi
+Ro'yxatni ikkiga bo'lib, ikki tarafni alohida tartiblab jamlash asosida 
+
+merge-sort.png
+merge-sort-and-quicksort-code.png
+merge-sort-and-quicksort-msecond.png
