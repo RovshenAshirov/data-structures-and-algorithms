@@ -1,0 +1,13 @@
+# Amaliyot. Stack
+
+Stackning xususiyatlari:
+    - Yangi element ro'yxat boshiga qo'shiladi (push)
+    - Elementlarning indeksi (tartib raqami) bo'lmaydi
+    - Ma'lumotlar ro'yxat boshidan boshlab tartib bilan o'qiladi
+
+Stack quyidagi metodlarga ega bo'ladi:
+    - Push – element qo’shish
+    - Pop – element sug’urib olish
+    - isEmpty – to’plam bo’sh ekanligini tekshirish
+    - isFull – to’plam to’la ekanligini tekshirish
+    - Peek – eng yuqoridagi element qiymatini ko’rish
