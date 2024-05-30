@@ -1,0 +1,26 @@
+# Quicksort algoritmi
+
+Quicksort ham ma'lumotlarni tartiblash algoritmi
+Selection sort'ga nisbatan birnecha barobar tezroq
+Divide and conquer yordamida ishlaydi
+
+Tasavvur qiling biz biror array elementlarini tartibga keltirmoqchimiz
+Birinchi qiladigan ishimiz to'xtash sharti (base case) topish
+To'xtash sharti ikki xil bo'lishi mumkin
+    - Bo'sh array []
+    - Bir elementdan iborat array [9]
+Yuqoridagi ikki holatda array tartibli bo'ladi
+
+Agar array 2 elementdan iborat bo'lsa, tartiblash oson:
+    - Birinchi elementni 2-element bilan solishtiramiz va kerak bo'lsa o'rnini almashtiramiz: [12, 10] -> [10, 12]
+
+Agar array 3 ta elementdan iborat bo'lsachi?
+Quicksort quyidagicha ishlaydi:
+    - Ixtiyoriy elementni tayanch nuqtasi (pivot) qilib olamiz
+    - Tayanch nuqtasidan kichkina elementlarni nuqtadan o'ngga ajratamiz
+    - Toki to'xtash shartiga yetgunga qadar chapdagi va o'ngdagi elementlar uchun yuqoridagi qadamlarni takrorlaymiz (rekursiya)
+
+qsort.png
+
+Quicksort algoritmi tez ishlashi uchun tayanch elementini tasodifiy olgan afzal (aks holda Big O qiymati O(n^2) bo'lishi mumkin)
+Umuman olganda esa quicksort uchun Big O: O(nlogn)
