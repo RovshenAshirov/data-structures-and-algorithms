@@ -1,0 +1,7 @@
+# Rekursiya va Stack
+
+Rekursiv funksiyalar ham stack asosida ishlaydi
+Dasturlashda bu call stack yoki program stack deyiladi
+
+call-stack.png
+steps.png
