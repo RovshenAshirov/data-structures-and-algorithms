@@ -1,0 +1,12 @@
+# Selection sort va Big O
+
+Jami Big O nichiga teng bo'ldi?
+
+Linear Search: O(n)
+Linear Search: O(n-1)
+...
+Linear Search: O(1)
+n marta qidirdik
+
+big-o.png
+O(n^2)
