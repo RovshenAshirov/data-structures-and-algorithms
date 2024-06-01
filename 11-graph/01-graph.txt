@@ -1,0 +1,15 @@
+# Graph ma'lumotlar tuzilmasi
+
+the-shortest-path.png
+
+Eng qisqa yo'l muammosi qayerda ishlatiladi?
+    - Navigatsiya (Google Maps, Waze, Yandex Maps)
+    - Aloqa tarmoqlarida
+    - IP routing
+    - Ijtimoiy tarmoqlarda siz taniydigan odamlarni topishda
+    - Robot/Dron uchun yo'l topishda
+
+graph.png
+types.png
+
+Pythonda graphlarni dictionary (lug'at, hash jadvali) yordamida yaratish mumkin.
