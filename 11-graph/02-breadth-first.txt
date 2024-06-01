@@ -1,0 +1,15 @@
+# Breadth-first qidirish algoritmi
+
+Breadth-first qidirish algoritmi graphlar bilan ishlaydi
+Ikki savolga javob beradi
+    - A va B node orasida yo'l bormi?
+    - A dan B ga eng yaqin yo'l qaysi?
+
+Elon Musk bilan aloqaga chiqa olasizmi?
+
+facebook.png
+
+step-1.png
+step-2.png
+
+search.png
