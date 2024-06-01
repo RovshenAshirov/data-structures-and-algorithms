@@ -1,0 +1,13 @@
+# Hash jadvali yaratish
+
+hash-tables.png
+
+Eng foydali va eng ko'p ishlatiladigan ma'lumotlar tuzilmasi
+Aksar dasturlash tillarida tadbiq qilingan
+    - Hash maps
+    - Maps
+    - Dictionaries (Python)
+
+dictionaries.png
+dns.png
+json.png
