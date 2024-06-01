@@ -1,0 +1,21 @@
+# Big O
+
+Hash funksiyasi to'g'ri tanlanmasa nima bo'ladi?
+hash-tables-and-linked-lists.png
+good-and-bad.png
+
+Big O
+    Hash tables (o'rtacha)
+        Ma'lumot o'qish: O(1)
+        Ma'lumot qo'shish: O(1)
+        Ma'lumot o'chirish: O(1)
+    Hash tables (eng yomon holat)
+        Ma'lumot o'qish: O(n)
+        Ma'lumot qo'shish: O(n)
+        Ma'lumot o'chirish: O(n)
+
+Binary search: O(log2(n))
+Linear search: O(n)
+Hash lookup: O(1)
+
+graph.png
