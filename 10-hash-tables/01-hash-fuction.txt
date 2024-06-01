@@ -1,0 +1,39 @@
+# Hash tables. Hash funksiya
+
+Tartibli ro'yxat
+    - Anor - 20 000
+    - Banan - 25 000
+    - Hurmo - 50 000
+    - Limon - 12 000
+    - Nok - 10 000
+    - Tarvuz - 12 000
+
+Qidirish vaqti:
+    Binary search: O(log2(n))
+
+
+Tartibsiz ro'yxat
+    - Limon - 12 000
+    - Tarvuz - 12 000
+    - Anor - 20 000
+    - Hurmo - 50 000
+    - Nok - 10 000
+    - Banan - 25 000
+
+Qidirish vaqti:
+    Linear search: O(n)
+
+
+Tasavvur qiling siz ro'yxatni yodlab olgansiz
+Endi qidirish uchun qancha vaqt ketadi?
+Javob: O(1)
+
+Hash funksiya matnni takrorlanmas, noyob songa o'tkazib beradi
+Hash funksiyalarning turi ko'p
+Yaxshi hash funksiya belgilari:
+    - Bir xil matn uchun bir xil son qaytaradi
+    - Har xil matnlar uchun har xil son qaytaradi
+Hash funksiya sizga kerakli oraliqdagi sonlarni qaytaradi
+
+hash.png
+duzun.me -> Hash Calculation
