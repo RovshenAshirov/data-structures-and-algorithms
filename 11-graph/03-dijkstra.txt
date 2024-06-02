@@ -1,0 +1,38 @@
+# Dijkstra algoritmi
+
+weighted-graph.png
+
+Dijkstra algoritmi vaznli graphlarda "eng arzon" yo'lni topishda ishlatiladi
+    - masofa
+    - narx
+    - vaqt
+    - vazn
+    - va boshqa narsalar
+
+Algoritm qanday ishlaydi:
+    - Boshlang'ich tugundan borish mumkin bo'lgan "eng arzon"  tugunni topamiz
+    - Eng arzon tugun qo'shnilarning "narxini" topamiz
+    - Yuqoridagi qadamni barcha tugunlar uchun takrorlang
+    - Yakuniy yo'lni toping
+
+dijkstra.png
+negative-weight.png
+cyclic-graph.png
+
+Breadth-First vs. Dijkstra 
+
+Breadth-First
+    - Bosh tugundan oxirgi tugungacha barcha tugunlarni ko'rib chiqadi
+    - Faqatgina vaznsiz (yoki bir xil vaznli) graphlar bilan ishlaydi
+    - Natija: "Eng qisqa" yo'l
+    - Big O: O(N + E)  # N -> Node - tugun, E -> Edge - graphlarni bog'lovchi yo'l
+
+Dijkstra
+    - Har qadamda eng arzon tugunga o'tadi
+    - Musbat vaznli va vaznsiz graphlar bilan ishlaydi
+    - Natija: "Eng arzon" yo'l
+    - Big O: O(N + E(log2(N)))  # N -> Node - tugun, E -> Edge - graphlarni bog'lovchi yo'l
+
+Vertices -> Node
+
+Manfiy vaznli graphlar uchun Bellman-Ford algoritmini ko'ring
