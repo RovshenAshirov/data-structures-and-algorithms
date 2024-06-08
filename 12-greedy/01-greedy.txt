@@ -1,0 +1,72 @@
+# Greedy Algorithms. Knapsack problem. Set-covering problem
+
+Greedy Algorithms - Ochko'z algoritmlar
+
+Ba'zi muammolar hech qanday algoritmga tushmaydi
+Shunday holatda bizga ochko'z algoritmlar yordam beradi
+Ochko'z algoritmlar har qadamda eng optimal yechimni tanlash
+Har doim ham to'g'ri yechimni bermaydi
+
+Quyidagi muammoni ko'ramiz:
+    - Bizda sinfxona va quyidagi darslar jadvali bor:
+        - Matematika: 9:00-10:00
+        - Fizika: 9:30-10:30
+        - Adabiyot: 10:00-11:00
+        - Informatika: 10:30-11:30
+        - Tarix: 11:00-12:00
+    - Berilgan sinfda o'tish mumkin bo'lgan darslar ro'yxatini tuzing
+Yechim:
+    - Eng erta tugaydigan darsni tanlaymiz va ro'yxatga qo'shamiz
+    - Ro'yxat oxiridagi darsdan keyin boshlanadigan eng erta darsni tanlaymiz va ro'yxatga qo'shamiz
+    - Jadvaldagi darslar tugaguncha 2-qadamni takrorlayveramiz
+
+greedy.png
+
+The Knapsack Problem (To'rvaxalta muammosi)
+
+knapsack.png
+
+Ochko'z algoritmlar har doim ham eng to'g'ri yechimni bermaydi
+Lekin amalga oshirish (dasturlash) oson
+Agar to'g'ri yechimni topish juda ko'p vaqt (resurs) talab qilsa qoniqarli yechimni topish uchun Greedy Algoritmlarni tanlang
+
+The set-covering problem - To'plamni yopish muammosi
+
+Tasavvur qiling, siz yangi uyali aloqa kompaniyasi uchun shahar bo'ylab antenalar o'rnatib chiqishingiz kerak
+Sizga antenna o'rnatish uchun 4 ta binoga ruxsat tegdi
+Har bir binoga qo'yilgan antenna faqatgina sanoqli hududlarni qamrab oladi
+Muammo barcha hududlarni qamraydigan eng kam antennalar (binolarini) toping
+
+Binolar  |  Hududlar
+A        |   1, 3, 4
+B        |   2, 4, 5
+C        |   1, 2, 6
+D        |   2, 5, 6
+
+Yechim:
+    - Binolarning mavjud kombinatsiyalarini quramiz
+        - n ta bino uchun 2^n kombinatsiya mavjud
+    - Kombinatsiyalar orasidan barcha hududlarni qamrab oladiganlarini topamiz
+    - Ularning orasidan eng kam bino bor to'plamni olamiz
+
+Kombinatsiyalar  |  Hududlar qamrovi
+A                |   {1, 3, 4}
+B                |   {2, 4, 5}
+C                |   {1, 2, 6}
+D                |   {2, 5, 6}
+AB               |   {1, 2, 3, 4, 5}
+AC               |   {1, 2, 3, 4, 6}
+AD               |   {1, 2, 3, 4, 5, 6}  |/
+BC               |   {1, 2, 4, 5, 6}
+BD               |   {2, 4, 5, 6}
+CD               |   {1, 2, 5, 6}
+ABC              |   {1, 2, 3, 4, 5, 6}
+ACD              |   {1, 2, 3, 4, 5, 6}
+ABD              |   {1, 2, 3, 4, 5, 6}
+BCD              |   {1, 2, 4, 5, 6}
+ABCD             |   {1, 2, 3, 4, 5, 6}
+
+n     |  SET-COVERING O(2^n)  |  GREEDY O(n^2)  |  FARQI
+4     |   O(16)               |   O(16)         |   1
+10    |   O(1024)             |   O(100)        |   10
+30    |   O(1 073 741 824)    |   O(900)        |   1 193 046
