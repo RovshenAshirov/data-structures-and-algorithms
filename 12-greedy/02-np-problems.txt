@@ -1,0 +1,27 @@
+# NP-muammolar. Traveling salesperson
+
+NP-Complete Problems
+Traveling Salesperson Problem
+
+Musofir savdogar muammosi:
+    - Savdogar ishi bilan safarga chiqdi va safar davomida 5ta manzilga kirib o'tishi kerak.
+    - Muammo: 5ta manzilga eng kam vaqt (yoki masofa) bosib kirib o'tish yo'lini topish 
+
+three-address.png
+
+4ta bo'lsachi? A, B, C, D
+4ta manzil uchun kombinatsiyalar soni 4! = 1 * 2 * 3 * 4 = 24
+Demak nta nuqta uchun kombinatsiyalar soni n! ga teng:
+    5! = 120
+    6! = 720
+    10! = 3 628 800
+
+Big O: O(n!)
+
+NP-muammo belgilari
+Kichik sonlar tez, katta sonlar uchun juda sekin ishlaydigan muammolar
+"X ning barcha kombinatsiyalarini toping" mazmunidagi muammolar
+Har bir yechimni ko'rib chiqish kerak bo'lgan muammolar
+Ketma-ketliklarni qarab chiqish talab qilinadigan muammolar (musofir muammosi)
+Barcha to'plamlarni ko'rib chiqish talab qilinadigan muammolar
+Set-covering yoki musofir muammosiga tushadigan muammolar
