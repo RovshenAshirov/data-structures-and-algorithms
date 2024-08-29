@@ -1,0 +1,20 @@
+# Dynamic Programming va Knapsack Problem
+
+Dynamic Programming - Muammoni bir nechta mayda muammolarga bo'lib, ularga yechim topish orqali katta muammoga yechim topish usuli
+
+The Knapsack Problem:
+    - Bizda m kilo sig'adigan qop bor
+    - Do'konda n ta element bor. Har bir elementning vazni va narxi turlicha
+    - Muammo: Qopga sig'adigan eng qimmat elementlar kombinatsiyasini topish
+Tez yechim: Greedy Algorithm
+    - Tez lekin optimal emas
+Optimal yechim: Barcha kombinatsiyalarni ko'rib chiqish
+    - Big O: O(2^n)
+Optimal yechim: Dynamic Programming
+    - Muammoni bir nechta mayda muammolarga bo'lamiz
+
+knapsack.png
+
+Avvalgi qatordagi maksimum vs Joriy element + Qolgan vazn uchun maksimum
+
+travel.png
